@@ -1,0 +1,78 @@
+.bg-img{
+    background-image: url("https://img.freepik.com/premium-photo/new-york-usa-may-27-2018-heavenly-bodies-fashion-catholic-imagination-met-museum_850000-31850.jpg?w=996");
+    background-size: cover;
+    height: 100vh;
+}
+#nav_item1{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight: 100;
+}
+#nav_item2{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav_item3{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+.logo{
+    width: 70px;
+    height: 50px;
+}
+.heading{
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.paragraph{
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.custom-button{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(59, 2, 2);
+    color: white;
+    font-family: "Roboto";
+    border-radius: 15px;
+    border-color: white;
+    text-align: center;
+}
+.art-heading{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(44, 2, 2);
+    text-align: center;
+}
+.card-img {
+    
+    border-radius: 16px;
+}
+.artgallery{
+    font-family: "Times New Roman";
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.card1{
+    border-radius: 16px;
+}
+
+.arttitle{
+    font-family: "Times New Roman";
+    margin-top: 10px;
+    font-size: 45px;
+    
+}
+.artdescription{
+    font-family: "Times New Roman";
+    margin-top: 10px;
+    
+}
